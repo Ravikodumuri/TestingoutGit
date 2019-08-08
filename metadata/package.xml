@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Veevatization_Package_V1</fullName>
+    <fullName>Veevatization_Event_Config</fullName>
     <types>
         <members>Veevatization_EventConfigurationHandler</members>
-        <members>Veevatization_Helper</members>
-        <members>Veevatization_Helper_Ankita</members>
-        <members>Veevatization_MetricConfigurationHandler</members>
-        <members>Veevatization_ProductGroupHandler</members>
-        <members>Veevatization_ProductHandler</members>
         <name>ApexClass</name>
     </types>
     <version>46.0</version>
