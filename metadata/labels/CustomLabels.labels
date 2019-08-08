@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Included_Objects</fullName>
+        <categories>Veevatization App</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Included Objects</shortDescription>
+        <value>Message_vod__c;Specialty_QS__c;SRV_INT_Sub_Reason__c;SRV_INT_Meeting_Type__c;VMobile_Object_Configuration_vod__c;EM_Venue_vod__c;HCO_Type_QS__c;Title_QS__c;Brick_to_Terr_vod__c</value>
+    </labels>
+    <labels>
+        <fullName>Production_ORG_URL_Veevatization</fullName>
+        <categories>Veevatization App</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Production ORG URL Veevatization</shortDescription>
+        <value>https://eu19.salesforce.com</value>
+    </labels>
+</CustomLabels>

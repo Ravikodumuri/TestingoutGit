@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Veevatization_Package</fullName>
+    <types>
+        <members>Veevatization_Helper</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Veevatization_Home</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>Included_Objects</members>
+        <members>Production_ORG_URL_Veevatization</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>CustomLabels</members>
+        <name>CustomLabels</name>
+    </types>
+    <types>
+        <members>Veevatization</members>
+        <name>CustomTab</name>
+    </types>
+    <version>46.0</version>
+</Package>
