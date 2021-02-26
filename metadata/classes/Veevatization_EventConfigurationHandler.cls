@@ -1,6 +1,7 @@
 //Test Comment
 public class Veevatization_EventConfigurationHandler implements Queueable, Database.AllowsCallouts
 {
+    String temp;
     String EventConfigBody;
     String ParentSessionID;
     String EndPointURL;
